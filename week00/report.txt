@@ -1,0 +1,11 @@
+#Judith Rembang Katikana Cholya
+Task 0 - Week Zero Requirement
+In week 0 we were given a task, described in a series of steps that we need to follow
+First of all we all must have a google acount, or create one if we don't have one
+Next, we must have a github account, or create one if we don't have one
+And then, we have to create a repository named os171 on our github account
+After that, we have to fill out a form provided by login to our google account first
+After finishing all of the steps above, we need to wait for 24 hours
+And then check our submission status
+We need to check on some link provided to know whether our registration is processed correctly or got an error
+After we were registered we need to log in to badak.cs.ui.ac.id
