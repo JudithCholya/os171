@@ -1,0 +1,14 @@
+#Judith Rembang Katikana Cholya
+In week 01 we were given more task about accessing badak server
+So far I've learned how to clone git repository by using command "git clone my_link"
+And then I learned how to see the list of all the files in the folder by using command "ls -al"
+I also learned how to create folder by using command "mkdir <folder_name1> <folder_name2> ..."
+After that there's this command to change the directory "cd dir_name"
+And then creating file from nothingness by using command "touch filename"
+Going back to the previous directory by using command "cd .."
+And I excitedly learned how to push and pull into github repository
+I also learned that there's various text editor that I can use such as vi, vim, and nano. I tried using nano at first but then I think I'm more familiar with vi since I've been using this before.
+And then we learned about CLI. Actually I still have a blurry understanding about this one but I'll keep on learning.
+Oh and I found out that we could verify our current directory by using the "pwd" command
+The last part about week01 is "intro to scripting" and I'm kinda afraid so..
+Let's keep on moving
