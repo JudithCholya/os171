@@ -7,3 +7,9 @@ W02-170225-16-PS-About: Understanding and doing Week02 Task
 W03-170325-15-PS-About: Understanding and doing Week03 Task
 W03-170325-15-PS-About: Understanding and doing Week03 Task
 W03-170325-16-PS-About: Understanding and doing Week03 Task
+W04-170403-19-PS-About: Understanding and doing Week04 Task
+W04-170403-20-PS-About: Understanding and doing Week04 Task
+W04-170403-20-PS-About: Understanding and doing Week04 Task
+W04-170403-21-PS-About: Understanding and doing Week04 Task
+W04-170403-21-PS-About: Understanding and doing Week04 Task
+
